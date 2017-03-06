@@ -20,7 +20,7 @@
 		$product['productID']; ?>">
 		<input type ='submit' value ='Delete'>
 		</td>
-		</tr>
+	
 	</tr>
 	<?php
 	}
